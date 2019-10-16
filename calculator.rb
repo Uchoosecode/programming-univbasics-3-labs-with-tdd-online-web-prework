@@ -1,7 +1,7 @@
 # Add your variables here
-def first_number = 9
+def first_number = 9.0
   
-def second_number = 6
+def second_number = 6.0
 
 def sum = first_number + second_number 
   
